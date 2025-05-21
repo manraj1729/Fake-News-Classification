@@ -1,0 +1,1 @@
+This project aims to classify news articles as either fake or real by analyzing their textual content. It leverages various NLP preprocessing steps and machine learning models to achieve accurate classification.
